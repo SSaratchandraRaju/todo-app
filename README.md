@@ -10,7 +10,7 @@
 
   **A modern, professional Flutter todo application with elegant UI design and robust state management**
 
-  [📱 Download Latest Release](https://github.com/your-username/todo-app/releases/latest) • [🌐 Portfolio](https://saratchandra-raju-sarikonda.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/s-saratchandra-raju/)
+  [📱 Download Latest Release](https://github.com/SSaratchandraRaju/todo-app/releases/latest) • [🌐 Portfolio](https://saratchandra-raju-sarikonda.vercel.app/) • [💼 LinkedIn](https://www.linkedin.com/in/s-saratchandra-raju/)
 </div>
 
 ---
