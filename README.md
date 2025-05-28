@@ -96,7 +96,7 @@ The application follows modern Flutter development patterns:
 ## 📱 Installation
 
 ### **Quick Install**
-📥 **[Download the latest APK from GitHub Releases](https://github.com/your-username/todo-app/releases/latest)**
+📥 **[Download the latest APK from GitHub Releases](https://github.com/SSaratchandraRaju/todo-app/releases/latest)**
 
 Simply download and install the APK file on your Android device to start using the app immediately.
 
